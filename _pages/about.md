@@ -21,3 +21,4 @@ redirect_from:
 - Apr, 2024. My Chinese patent "Registration methods, systems, and lightweight methods for non iterative
 lightweight network distillation" was made public.
 - Dec, 2023. My co-authored paper "Real-time estimation of lung deformation from body surface using a general CoordConv CNN" was accepted by **Computer Methods and Programs in Biomedicine**.
+- Apr, 2021. My paper "Three-Way Feature Selection Based on Neighborhood Mutual Information" was accepted by Computer Engineering and Applications.
