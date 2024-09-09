@@ -17,4 +17,7 @@ redirect_from:
 # Recent News
 
 - Oct, 2024. I will attend MICCAI 2024 in Morocco and post my paper at the venue on the 9th.
-- Jun, 2024. My paper was accepted by MICCAI 2024. (ratio:)
+- Jun, 2024. My paper "DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration" was accepted by **MICCAI 2024** (ratio:30%).
+- Apr, 2024. My Chinese patent "Registration methods, systems, and lightweight methods for non iterative
+lightweight network distillation" was made public.
+- Dec, 2023. My co-authored paper "Real-time estimation of lung deformation from body surface using a general CoordConv CNN" was accepted by **Computer Methods and Programs in Biomedicine**.
