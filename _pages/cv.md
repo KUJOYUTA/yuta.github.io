@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Shanghai Jiao Tong University, 2014
+* M.S. in Shanghai Jiao Tong University, 2022-2025
 * B.S. in Shenzhen University, 2018-2022
 
 Work experience
@@ -43,13 +43,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html  %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
