@@ -18,15 +18,10 @@ Education
 
 Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant (Apr 2023 - Present)
+  * Shanghai Jiao Tong University
+  * Topic: Fast medical image registration on resource-limited devices.
+  * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
 
 * Summer 2015: Research Assistant
   * Github University
@@ -36,7 +31,6 @@ Experience
 Awards
 ======
 * Outstanding Innovative Talents Scholarship, 2019-2021
-
 
 Skills
 ======
