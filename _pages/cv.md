@@ -23,10 +23,20 @@ Experience
   * Topic: Fast medical image registration on resource-limited devices.
   * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (Nov 2023 - Jun 2024)
+  * Shanghai Jiao Tong University
+  * Topic: Transparent medical image registration.
+  * Supervisor: [Yiqing Shen](https://scholar.google.com/citations?hl=en&user=YDlF4lQAAAAJ&view_op=list_works&sortby=pubdate)
+
+* Research Assistant (Apr 2023 - Present)
+  * Shanghai Jiao Tong University
+  * Topic: Fast medical image registration on resource-limited devices.
+  * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
+
+* Research Assistant (Apr 2023 - Present)
+  * Shanghai Jiao Tong University
+  * Topic: Fast medical image registration on resource-limited devices.
+  * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
 
 Awards
 ======
