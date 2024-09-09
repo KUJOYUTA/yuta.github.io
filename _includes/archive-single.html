@@ -16,11 +16,11 @@
 
     {% if post.authors %}
       {% assign authors = post.authors | replace: "Yongtai Zhuo", "<strong>Yongtai Zhuo</strong>" %}
-      <p>Authors: {{ authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+      <p>{{ authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+      <p>{{ post.venue }}</p>
     {% endif %}
 
   </article>
