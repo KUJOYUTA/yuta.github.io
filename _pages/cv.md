@@ -28,15 +28,15 @@ Experience
   * Topic: Transparent medical image registration.
   * Supervisor: [Yiqing Shen](https://scholar.google.com/citations?hl=en&user=YDlF4lQAAAAJ&view_op=list_works&sortby=pubdate)
 
-* Research Assistant (Apr 2023 - Present)
+* Research Assistant (Oct 2022 - Dec 2023)
   * Shanghai Jiao Tong University
-  * Topic: Fast medical image registration on resource-limited devices.
-  * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
+  * Topic: Real-time lung deformation estimation.
+  * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao)
 
-* Research Assistant (Apr 2023 - Present)
-  * Shanghai Jiao Tong University
-  * Topic: Fast medical image registration on resource-limited devices.
-  * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
+* Research Assistant (Dec 2020 - Apr 2021)
+  * Shenzhen University
+  * Topic: Enhanced ensembled classifier via trinary exploration.
+  * Supervisor: [Can Gao](https://scholar.google.com/citations?hl=en&user=yyi9jUIAAAAJ&view_op=list_works&sortby=pubdate)
 
 Awards
 ======
