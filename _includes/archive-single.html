@@ -9,18 +9,10 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <h2 itemprop="headline">
+    <h2>
       <a href="{{ post.paperurl }}">{{ title }}</a>
     </h2>
 
-    <ul>
-      {% if post.paperurl %}
-        <li><a href="{{ post.paperurl }}">PDF</a></li>
-      {% endif %}
-      {% if post.slidesurl %}
-        <li><a href="{{ post.slidesurl }}">Supplementary Material</a></li>
-      {% endif %}
-    </ul>
 
     {% if post.authors %}
       {% assign authors = post.authors | replace: "Yongtai Zhuo", "<strong>Yongtai Zhuo</strong>" %}
