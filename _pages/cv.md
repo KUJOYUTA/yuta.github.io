@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="../assets/Resume_blackline.pdf"> PDF </a>
+
 Education
 ======
 * M.S. in Shanghai Jiao Tong University, 2022-2025
@@ -39,13 +41,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html  %}
-  {% endfor %}</ul>
-  
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
