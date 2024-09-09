@@ -23,7 +23,8 @@
     </ul>
 
     {% if post.authors %}
-      <p>Authors: {{ post.authors }}</p>
+      {% assign authors = post.authors | replace: "Yongtai Zhuo", "<strong>Yongtai Zhuo</strong>" %}
+      <p>Authors: {{ authors | markdownify | remove: "<p>" | remove: "</p>" }}</p>
     {% endif %}
 
     {% if post.collection == 'publications' %}
