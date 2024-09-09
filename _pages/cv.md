@@ -32,7 +32,12 @@ Experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+Awards
+======
+* Outstanding Innovative Talents Scholarship, 2019-2021
+
+
 Skills
 ======
 * Programming: Python, C++
