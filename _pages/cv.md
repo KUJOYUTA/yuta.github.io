@@ -13,12 +13,18 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Shanghai Jiao Tong University, 2025-2029?
 * M.S. in Shanghai Jiao Tong University, 2022-2025
 * B.S. in Shenzhen University, 2018-2022
 
 Experience
 ======
-* Research Assistant (Apr 2023 - Present)
+* Research Assistant (Aug 2025 - Dec 2025)
+  * Shanghai Jiao Tong University, Tianjin University
+  * Topic: The role of healthy lifestyle and metabolome.
+  * Supervisor: Cheng Jin, Zhongze Fang
+
+* Research Assistant (Apr 2023 - Feb 2025)
   * Shanghai Jiao Tong University
   * Topic: Fast medical image registration on resource-limited devices.
   * Supervisor: [Lixu Gu](https://scholar.google.com/citations?user=9joB-d0AAAAJ&hl=en&oi=ao), [Jingyang Zhang](https://scholar.google.com/citations?user=C-M2ufUAAAAJ&hl=en&oi=ao)
@@ -40,12 +46,14 @@ Experience
 
 Awards
 ======
-* Outstanding Innovative Talents Scholarship, 2019-2021
+* Ningbo Future Star Scholarship, Shanghai Jiao Tong University, 2024
+* Outstanding Innovative Talents Scholarship, Shenzhen University, 2019-2021
 
 Skills
 ======
 * Programming: Python, C++
 * Packages: PyTorch, TensorFlow, OpenCV, Monai, ITK
+* Software: Itk-Snap, 3D-Slicer, Gephi
 * Language: Chinese (native), English
   
 Service and leadership
