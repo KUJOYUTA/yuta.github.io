@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../assets/Resume_blackline.pdf"> PDF </a>
+<a href="../assets/Resume2024.pdf"> PDF 2024 </a>
+<a href="../assets/Resume2026_Agent.pdf"> PDF 2026 Agent Era </a>
 
 Education
 ======
